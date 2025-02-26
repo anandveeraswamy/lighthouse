@@ -11,7 +11,7 @@ header { background-color: #869DC7;
 	font-size: 20pt;
 	padding: 10px 10px 10px 155px;
 	background-repeat: no-repeat;
-	background-image: url(lightlogo.jpg); }
+	background-image: url(../images/lightlogo.jpg); }
 	header a { text-decoration: none; }
 header a:link { color: #00005D; }
 header a:visited { color: #00005D;}
@@ -22,9 +22,9 @@ nav { float: right;
 	letter-spacing: 0.1em; }
 main { background-color: #ffffff;
 	color: #000000;
-	padding: 10px 20px; 
+	padding: 10px 20px;
 	display: block;
-	overflow: auto; 
+	overflow: auto;
 	font-family: "Times New Roman", serif; font-size: 12pt; }
 footer { font-size: 70%;
 	text-align: center;
@@ -41,12 +41,12 @@ nav a { text-decoration: none;
 	display: block;
 	background-color: #B3C7E6;
 	border-bottom: 1px solid #FFFFFF;
-	background-image: url(sprites.gif);
+	background-image: url(../images/sprites.gif);
 	background-repeat: no-repeat;
 	background-position: right 0; 	}
 nav a:link { color: #FFFFFF; }
 nav a:visited { color: #EAEAEA; }
 nav a:hover { color: #869DC7;
 	background-color: #EAEAEA;
-    background-position: right -100px; }	
+    background-position: right -100px; }
 nav { display: none; }
